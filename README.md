@@ -1,4 +1,4 @@
 # Proj1
 Introduction
 <br>
-First proj of github
+This is my First project of github
